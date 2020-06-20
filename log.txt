@@ -1,3 +1,7 @@
+Fri June 19 2020: Beginning SpriteKit tutorial completed
+
+Today I completed the beginning SpriteKit tutorial by finishing the two sections. In the 10th section I imported a font into the project, and used it to represent variables in-game such as lives, and cats. In the 11th and final section, I adapted the game to Apple TV. This required the sharing of several files, and I had to change the game so it could work with an Apple TV remote.
+
 Thurs June 18 2020: Beginning SpriteKit tutorial continued
 
 Today I learned the concepts of collision detection and scenes. I used collision detection to finish the rest of the functionality of the game. Meaning the conga line of cats, lives, getting hit by the enemy, and winning and loosing. I used the concepts of scenes to create a winning and loosing scene, while also putting background music for each in.
