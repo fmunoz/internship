@@ -1,3 +1,8 @@
+Thurs June 18 2020: Beginning SpriteKit tutorial continued
+
+Today I learned the concepts of collision detection and scenes. I used collision detection to finish the rest of the functionality of the game. Meaning the conga line of cats, lives, getting hit by the enemy, and winning and loosing. I used the concepts of scenes to create a winning and loosing scene, while also putting background music for each in.
+
+
 Wed June 17 2020: Beginning SpriteKit tutorial continued
 
 Today I completed the next 4 parts of the tutorial on using SpriteKit. I learned how boundaries and a set playable area is important to universal app support, meaning how you can play the game on different devices. In the next part of the tutorial, I learned how to set those boundaries, and outlined where they were set. Then I used a new function to constantly check if the "zombie" sprite was within the set boundaries and if it met those boundaries it would simply bounce off and move in a different direction. Next, I utilized the SKAction class to spawn an "enemy" sprite at a set interval who would then cross the screen, and also to spawn "cat" sprites which would eventually fade away. As part of the challenge for this section I used actions to have the cats move in place. Lastly I learned how to make animations by using a loop to cycle through multiple images at a set pace giving the appearance of movement.
